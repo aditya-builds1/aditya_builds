@@ -4,7 +4,7 @@ Frontent|Html,css,beginner j.s|Learning DSA with java
 
 
 ## 🌐 Socials:
-[![LinkedInhttps://www.linkedin.com/in/aditya-parashar-583892374?utm_source=share_via&utm_content=profile&utm_medium=member_android [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Aditya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya136pb@gmail.com) 
+[![LinkedInhttps://www.linkedin.com/in/aditya-parashar-583892374?utm_source=share_via&utm_content=profile&utm_medium=member_android  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya136pb@gmail.com) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
